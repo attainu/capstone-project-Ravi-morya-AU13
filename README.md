@@ -34,8 +34,7 @@
     4. Mongoose
     5. Express-session
     6. Socket-io
-    7. Cloudinary
-    8. Es6
-    9. React
-    10. Redux
-    11. Redux-Thunk
+    7. Es6
+    8. React
+    9. Redux
+    10. Redux-Thunk
