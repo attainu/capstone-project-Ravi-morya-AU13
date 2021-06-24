@@ -37,5 +37,5 @@
     7. Cloudinary
     8. Es6
     9. React
-   10. Redux
-   11. Redux-Thunk
+    10. Redux
+    11. Redux-Thunk
