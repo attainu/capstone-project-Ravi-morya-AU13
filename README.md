@@ -14,7 +14,7 @@
     7. Commenting a post
     8. Share post
     9. Replying to post
-   10. Texting a user
+    10. Texting a user
 
 ## Description
 * ### Registered users can create their profile which will contain their details.
