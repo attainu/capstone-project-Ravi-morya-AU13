@@ -1,5 +1,5 @@
 
-# Wc-Network
+# WC-Network
 
 ### This is basically a social network app. where users can register themselves and post, like, comment and share with their friends.  A Project Report on Social Networking is a Boon. It was very difficult years ago to communicate with friends or family living in distant and far off places, thanks to technology that is not a problem anymore. Social networking is growing big in India and the rest of the world with more and more users joining it every minute.
 
